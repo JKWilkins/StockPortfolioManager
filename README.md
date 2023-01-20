@@ -33,7 +33,7 @@ Manual_In_Sample.png & Maunal_Out_Sample.png graphs compares training and testin
 <img src="images/Manual_OutSample_plot.png" width = "400">  
   
 #### Manual_Out_sample vs. Benchmark - Normalized Value Stats
-<img src="images/Manual_Stats.png" width = "400"> 
+<img src="images/Manual_Stats.png" width = "500"> 
 
 Experiment 1 introduces the Random Forest "Staregy Learner" to the training and testing comparisons. Exp1.txt contains summary performance statistics. 
   
@@ -43,9 +43,13 @@ Experiment 1 introduces the Random Forest "Staregy Learner" to the training and 
 #### Strategy Learner Comparisons - Normalized Values  
 <img src="images/Exp1_OutSample_plot.png" width = "400"> 
   
-    
+#### Strategy Learner Comparisons - Normalized Values Stats   
+<img src="images/Exp1_Stats.png" width = "500">  
     
 Experiment 2 obersves the effects of the "market impact" parameter on the training performance of the Strategy Learner, which is a measure of how much our trades affect the market value of the stock. Exp2.txt contains summary perforamnce staistics.
 
 #### Variable Impact - Strategy Learner Comparisons - Normalized Values  
-<img src="images/Exp2_Impacts_plot.png" width = "400"> 
+<img src="images/Exp2_Impacts_plot.png" width = "400">  
+
+#### Variable Impact - Strategy Learner Comparisons - Normalized Values  
+<img src="images/Exp2_Stats.png" width = "500"> 
