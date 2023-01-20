@@ -31,7 +31,9 @@ Manual_In_Sample.png & Maunal_Out_Sample.png graphs compares training and testin
   
 #### Manual_Out_sample vs. Benchmark - Normalized Value  
 <img src="images/Manual_OutSample_plot.png" width = "400">  
-
+  
+#### Manual_Out_sample vs. Benchmark - Normalized Value Stats
+<img src="images/Manual_Stats.png" width = "400"> 
 
 Experiment 1 introduces the Random Forest "Staregy Learner" to the training and testing comparisons. Exp1.txt contains summary performance statistics. 
   
