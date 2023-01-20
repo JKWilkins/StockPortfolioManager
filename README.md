@@ -25,23 +25,23 @@ A limitation for these experiemnts is that each portfolio starts at $100,000 (sv
 Manual_In_Sample.png & Maunal_Out_Sample.png graphs compares training and testing performances of the manual heuerstic strategy, which checks the values of the predictor indicators to be within a stable range, to the benchmark position. The vertical blue lines represent times when the Manual Strategy chose a long position, while the black lines represent short positions. Manual_Stats.txt contains summary performance statistics.
 
 #### Manual_In_sample vs. Benchmark - Normalized Value
-<img src="images/Manual_InSample_plot.png" width = "500">
+<img src="images/Manual_InSample_plot.png" width = "400">
   
 #### Manual_Out_sample vs. Benchmark - Normalized Value  
-<img src="images/Manual_OutSample_plot.png" width = "500">  
+<img src="images/Manual_OutSample_plot.png" width = "400">  
 
 
 Experiment 1 introduces the Random Forest "Staregy Learner" to the training and testing comparisons. Exp1.txt contains summary performance statistics. 
   
 #### Strategy Learner Comparisons - Normalized Values  
-<img src="images/Exp1_InSample_plot.png" width = "500">  
+<img src="images/Exp1_InSample_plot.png" width = "400">  
 
 #### Strategy Learner Comparisons - Normalized Values  
-<img src="images/Exp1_OutSample_plot.png" width = "500"> 
+<img src="images/Exp1_OutSample_plot.png" width = "400"> 
   
     
     
 Experiment 2 obersves the effects of the "market impact" parameter on the training performance of the Strategy Learner, which is a measure of how much our trades affect the market value of the stock. Exp2.txt contains summary perforamnce staistics.
 
 #### Variable Impact - Strategy Learner Comparisons - Normalized Values  
-<img src="images/Exp2_Impacts_plot.png" width = "500"> 
+<img src="images/Exp2_Impacts_plot.png" width = "400"> 
