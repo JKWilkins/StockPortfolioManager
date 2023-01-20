@@ -1,0 +1,23 @@
+In Sample: 2008-01-01 00:00:00 - 2009-12-31 00:00:00 for JPM
+
+Manual Strategy - In Sample
+Cumulative Return: 0.3157854206493309
+Standard Deviation: 0.012461464265651943
+Average Daily Return: 0.0006218446280199613
+
+Benchmark Strategy - In Sample
+Cumulative Return: -0.039913745507146325
+Standard Deviation: 0.017468249019795736
+Average Daily Return: 7.09716619623517e-05
+
+Out Of Sample: 2010-01-01 00:00:00 - 2011-12-31 00:00:00 for JPM
+
+Manual Strategy - Out Of Sample
+Cumulative Return: 0.23468635129194437
+Standard Deviation: 0.006941735095089588
+Average Daily Return: 0.00044325081275167815
+
+Benchmark Strategy - Out Of Sample
+Cumulative Return: -0.13536508738224562
+Standard Deviation: 0.008781865133658723
+Average Daily Return: -0.00025061167508665436

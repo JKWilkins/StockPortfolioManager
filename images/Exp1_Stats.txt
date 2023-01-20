@@ -1,0 +1,39 @@
+In Sample: 2008-01-01 - 2009-12-31 for JPM with commission = 9.95 & impact = 0.005
+
+Benchmark - In Sample
+Cumulative Return: -0.039913745507146325
+Average Daily Return: 7.09716619623517e-05
+Standard Deviation: 0.017468249019795736
+Final Portfolio Value: 95814.40000000148
+
+Manual Strategy - In Sample
+Cumulative Return: 0.3157854206493309
+Average Daily Return: 0.0006218446280199613
+Standard Deviation: 0.006941735095089588
+Final Portfolio Value: 131565.44999999763
+
+Strategy Learner - In Sample
+Cumulative Return: 0.9026640894529292
+Average Daily Return: 0.001336804028062677
+Standard Deviation: 0.010954757349706652
+Final Portfolio Value: 189881.49999999662
+
+Out Of Sample: 2010-01-01 - 2011-12-31 for JPM with commission = 9.95 & impact = 0.005
+
+Benchmark - Out Sample
+Cumulative Return: -0.13536508738224562
+Average Daily Return: -0.00025061167508665436
+Standard Deviation: 0.008781865133658723
+Final Portfolio Value: 86278.20000000147
+
+Manual Strategy - Out Sample
+Cumulative Return: 0.23468635129194437
+Average Daily Return: 0.00044325081275167815
+Standard Deviation: 0.006941735095089588
+Final Portfolio Value: 123456.34999999909
+
+Strategy Learner - Out Sample
+Cumulative Return: 0.4276299108990307
+Average Daily Return: 0.000727824463608524
+Standard Deviation: 0.00630369587031239
+Final Portfolio Value: 142457.04999999743

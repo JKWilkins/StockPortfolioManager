@@ -1,0 +1,35 @@
+In Sample: 2008-01-01 - 2009-12-31 for JPM with commission = 0.0 & varying impacts
+Strategy Learner - Impact = 0
+Cumulative Return: 1.1646999999999998
+Average Daily Return: 0.0016020058285421445
+Standard Deviation: 0.011735864825597981
+Final Portfolio Value: 216470.0
+Total # of Trades: 81
+
+Strategy Learner - Impact = 0.001
+Cumulative Return: 1.1806822084455888
+Average Daily Return: 0.0016063198158530378
+Standard Deviation: 0.010824302108006466
+Final Portfolio Value: 217984.33
+Total # of Trades: 103
+
+Strategy Learner - Impact = 0.005
+Cumulative Return: 0.966168424965423
+Average Daily Return: 0.0013988755708452232
+Standard Deviation: 0.01066416961331977
+Final Portfolio Value: 196238.6500000002
+Total # of Trades: 89
+
+Strategy Learner - Impact = 0.01
+Cumulative Return: 0.6372374524796898
+Average Daily Return: 0.0010621689763860584
+Standard Deviation: 0.012950849086547363
+Final Portfolio Value: 163093.90000000002
+Total # of Trades: 70
+
+Strategy Learner - Impact = 0.05
+Cumulative Return: -0.1073141884141462
+Average Daily Return: -5.087404598406039e-05
+Standard Deviation: 0.01868298617417506
+Final Portfolio Value: 87551.49999999999
+Total # of Trades: 36
